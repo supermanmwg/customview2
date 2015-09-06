@@ -2,7 +2,7 @@
 <resources>
     <attr name="titleText" format="string"/>
     <attr name="titleTextSize" format="dimension" />
-    <attr name="titlteTextColor" format="reference" />
+    <attr name="titlteTextColor" format="color" />
     <attr name="image" format="reference|color" />
     <attr name="imageScaleType">
         <enum name="fillXY" value="0" />
